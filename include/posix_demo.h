@@ -45,6 +45,7 @@
 extern "C" {
 #endif
 
+#include <string.h>
 #include "cyhal.h"
 #include "cybsp.h"
 #include "cy_retarget_io.h"

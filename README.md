@@ -242,6 +242,7 @@ Document title: *CE237462* - *FreeRTOS-POSIX: Demo*
 Version | Description of change
 ------- | ---------------------
 1.0.0   | New code example
+1.0.1   | Added missing headers
 <br />
 
 
